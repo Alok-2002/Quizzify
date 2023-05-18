@@ -1,0 +1,182 @@
+[
+    {
+        "question" : "The International Literacy Day is observed on ?",
+        "choice1" : "Sep 8",
+        "choice2" : "Nov 28",
+        "choice3" : "May 2",
+        "choice4" : "Sep 22",
+        "answer" : 1
+
+    },
+    {
+        "question" : "The language of Lakshadweep. a Union Territory of India, is ?",
+        "choice1" : "Hindi",
+        "choice2" : "Tamil",
+        "choice3" : "Telugu",
+        "choice4" : "Malayalam",
+        "answer" : 4
+
+    },
+    {
+        "question" : "In which group of places the Kumbha Mela is held every twelve years ?",
+        "choice1" : "Ujjain. Purl; Prayag. Haridwar",
+        "choice2" : "Prayag. Haridwar, Ujjain,. Nasik",
+        "choice3" : "Rameshwaram. Purl, Badrinath. Dwarika",
+        "choice4" : "Chittakoot, Ujjain, Prayag,'Haridwar",
+        "answer" : 2
+
+    },
+    {
+        "question" : "Bahubali festival is related to ?",
+        "choice1" : "Islam",
+        "choice2" : "Hinduism",
+        "choice3" : "Buddhism",
+        "choice4" : "Jainism",
+        "answer" : 4
+
+    },
+    {
+        "question" : "Which day is observed as the World Standards  Day ?",
+        "choice1" : "Jun 26",
+        "choice2" : "Oct 14",
+        "choice3" : "Nov 15",
+        "choice4" : "Dec 2",
+        "answer" : 2
+
+    },
+    {
+        "question" : "Who is the current Prime Minister Of India ?",
+        "choice1" : "Shri.Naremdra Modi",
+        "choice2" : "Rahul Gandhi",
+        "choice3" : "Dr. Manmohan Singh",
+        "choice4" : "Jawahar Lal Nehru",
+        "answer" : 1
+
+    },
+    {
+        "question" : "Who is the current President Of India ?",
+        "choice1" : "Pranab Mukharjee",
+        "choice2" : "Narendra Modi",
+        "choice3" : "Druapadi Murmur",
+        "choice4" : "Rahul Gandhi",
+        "answer" : 3
+
+    },
+    {
+        "question" : " Where is Taj Mahal located ?",
+        "choice1" : "Agra",
+        "choice2" : "Delhi",
+        "choice3" : "Mumbai",
+        "choice4" : "Mathura",
+        "answer" : 1
+
+    },
+    {
+        "question" : "On Which Day Independence Day is Celebrated ?",
+        "choice1" : "14 Nov",
+        "choice2" : "15 Aug",
+        "choice3" : "26 jan",
+        "choice4" : "2 Oct",
+        "answer" : 2
+
+    },
+    {
+        "question" : "Who was the First President of India ?",
+        "choice1" : "A.P.J Abdul Kalam",
+        "choice2" : "Dr. Rajendra Prasad",
+        "choice3" : "Sarvepalli Radhakrishnan",
+        "choice4" : "Zakir Hussain",
+        "answer" : 2
+
+    },
+    {
+        "question" : "On Which Day Childrens Day is Celebrated ?",
+        "choice1" : "2 Oct",
+        "choice2" : "14 Nov",
+        "choice3" : "06 Jun",
+        "choice4" : "11 Mar",
+        "answer" : 2
+
+    },
+    {
+        "question" : "Who was the First Prime Minister Of India ?",
+        "choice1" : "Swami Vivekanda",
+        "choice2" : "Pandit Jawaharlal Nehru",
+        "choice3" : "Lal Bahadur Shastri",
+        "choice4" : "Indira Gandhi",
+        "answer" : 2
+
+    },
+    {
+        "question" : "Who is the Chief Of Defence Staff ?",
+        "choice1" : "Lt General Anil Chauhan",
+        "choice2" : "General Manoj Pandey",
+        "choice3" : "General Manoj Mukund",
+        "choice4" : "General Bipin Rawat",
+        "answer" : 1
+
+    },
+    {
+        "question" : "Which one is a Union Territory of the following ?",
+        "choice1" : "Daman & Diu",
+        "choice2" : "New Delhi",
+        "choice3" : "Mumbai",
+        "choice4" : "Hyderabad",
+        "answer" : 1
+
+    },
+    {
+        "question" : "Who is the Parent Company Of Google ?",
+        "choice1" : "Alphabet",
+        "choice2" : "Microsoft",
+        "choice3" : "Apple",
+        "choice4" : "Amazon",
+        "answer" : 1
+
+    },
+    {
+        "question" : "Who is the Richest Person In the World ?",
+        "choice1" : "Bill Gates",
+        "choice2" : "Elon Musk",
+        "choice3" : "Bernard Arnault & Family",
+        "choice4" : "Jeff Bezos",
+        "answer" : 3
+
+    },
+    {
+        "question" : " What is Full form of C.B.I ?",
+        "choice1" : "Central Bank Of India",
+        "choice2" : "Crime Branch Of India",
+        "choice3" : "Central Bureau Of Investigation",
+        "choice4" : "Corporate Bussiness Intelligence",
+        "answer" : 3
+
+    },
+    {
+        "question" : " What is Full form of RBI ?",
+        "choice1" : "Reserve Bank of India",
+        "choice2" : "Royal Bank of India",
+        "choice3" : "Regional Bank of India",
+        "choice4" : "Reliance Bank of India",
+        "answer" : 1
+
+    },
+    {
+        "question" : " WWhich of the following is the highest mountain peak in India ?",
+        "choice1" : "Mount Everest",
+        "choice2" : "Kanchenjunga",
+        "choice3" : "Nanda Devi",
+        "choice4" : "Annapurna",
+        "answer" : 2
+
+    },
+    {
+        "question" : " Where is Mount Everest located ?",
+        "choice1" : "Nepal",
+        "choice2" : "India",
+        "choice3" : "China",
+        "choice4" : "Bhutan",
+        "answer" : 1
+
+    }
+]
