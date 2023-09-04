@@ -1,5 +1,8 @@
-# Quiz_Web_App_Using_HTML_CSS_And_Javascript
 # Quiz Web App
+
+![GitHub](https://img.shields.io/github/license/alok-2002/Quizzify)
+![GitHub stars](https://img.shields.io/github/stars/alok-2002/Quizzify)
+![GitHub forks](https://img.shields.io/github/forks/alok-2002/Quizzify)
 
 This repository contains a Quiz Web App built using HTML, CSS, JavaScript, and the Open Trivia Database. The app allows users to test their knowledge by answering quiz questions from various categories.
 
